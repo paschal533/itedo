@@ -57,6 +57,11 @@ export const TeamItem = [
         "image": team3
     },
     {
+        "name": "Benson Chidera",
+        "role": "Technical writer",
+        "image": azrael
+    },
+    {
         "name": "Dinma",
         "role": "Member",
         "image": team4
@@ -90,11 +95,6 @@ export const TeamItem = [
         "name": "Judith",
         "role": "Member",
         "image": team8
-    },
-    {
-        "name": "Azrael",
-        "role": "Technical writer",
-        "image": azrael
     },
     {
         "name": "Faith",
